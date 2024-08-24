@@ -1,0 +1,7 @@
+!DOCTYPE html>
+<html>
+<body>
+<h1>Unbloct games</h1>
+<p>On GitHub Pages.</p>
+</body>
+</html>
